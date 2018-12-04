@@ -1,8 +1,9 @@
 # Basic Reason Template
 
-Hello! This project allows you to quickly get started with Reason and BuckleScript. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
+This is my first serious foray into learning ReasonML. I've used [Advent of Code](https://adventofcode.com/2018) as an excuse to kickstart my progress. Feel free to learn from my examples :)
 
 # Build
+
 ```
 npm run build
 ```
@@ -12,7 +13,3 @@ npm run build
 ```
 npm run start
 ```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
